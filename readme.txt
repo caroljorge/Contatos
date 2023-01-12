@@ -1,0 +1,1 @@
+Projeto criado conforme as ideias do curso de Delphi 10 da Alura.
